@@ -1,0 +1,60 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Software for data analysis of Brazilian rivers (vRivers)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - given-names: Carlos
+    family-names: Noriega
+    email: carlos.delnor@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0002-3590-6377'
+  - given-names: Silena
+    family-names: Herold-Garcia
+    email: silena.herold@gmail.com
+    affiliation: >-
+      Computer Science Department. Universidad de Oriente. Cuba.
+    orcid: 'https://orcid.org/0000-0001-9238-3472'
+  - given-names: Emerson O.
+    family-names: de Luna
+    email: emerson.luna@ufpe.br
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0002-9051-6427'
+  - given-names: Moacyr
+    family-names: Araujo
+    email: moa.ufpe@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-8462-6446'
+repository-code: 'https://doi.org/10.5281/zenodo.11069161'
+abstract: >-
+  Matlab package for the validation of vertical profiles of ocean parameters
+  using the Mann-Whitney test, t-test, F-Test, bias, Scatter Index and RMSE;
+  compares analysis and reanalysis data with observed data.
+keywords:
+  - Vertical profile
+  - Ocean parameters
+  - Analysis and reanalysis datasets
+  - Mann-Whitney test
+  - two samples t-test
+  - two samples Fisher test
+license: MIT
+version: '2.7.1'
+date-released: '2024-04-24'
